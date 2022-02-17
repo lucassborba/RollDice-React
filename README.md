@@ -1,5 +1,5 @@
 # RollDice-React
-Exercise in React to import an external effect on CSS and training React.
+Exercise in React to training state and import an external effect on CSS.
 
 Image:
 
